@@ -3,7 +3,7 @@
   ║  This is a GitHub *profile* README.                          ║
   ║  Put it in a repo named EXACTLY the same as your username,   ║
   ║  e.g.  github.com/landon/landon  →  /README.md               ║
-  ║  Replace every  your-username  below with your real handle.  ║
+  ║  Replace every you-username below with your real handle.     ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
@@ -20,7 +20,7 @@
 ![Status](https://img.shields.io/badge/status-double%20major%20%E2%9A%A1-553c9a?style=for-the-badge)
 ![Coffee](https://img.shields.io/badge/powered%20by-caffeine-6b4423?style=for-the-badge)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=2b6cb0)](https://github.com/your-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=landonroxypal-repo&style=flat-square&color=2b6cb0)](https://github.com/landonroxypal-repo)
 
 </div>
 
@@ -183,9 +183,9 @@ An access-control gate driven by a clean state machine.
 <div align="center">
 
 <!-- These cards pull live data on GitHub. Swap in your username. -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=landonroxypal-repo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonroxypal-repo&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -196,8 +196,8 @@ An access-control gate driven by a clean state machine.
 | Where | Link |
 |:------|:-----|
 | 💼 LinkedIn | [your-linkedin](https://linkedin.com/in/your-handle) |
-| 🐙 GitHub | [@your-username](https://github.com/your-username) |
-| ✉️ Email | `you@example.com` |
+| 🐙 GitHub | [@landonroxypal-repo](https://github.com/landonroxypal-repo) |
+| ✉️ Email | `lwardle526306@gmail.com` |
 
 ---
 
